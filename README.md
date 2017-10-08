@@ -12,3 +12,6 @@ Added 3 directories
 1. Atom folder
 2. github folder
 3. ecmas6 folder javascript 6 file
+
+Next task.
+Setup the macbook to clone the directory
