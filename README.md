@@ -15,3 +15,6 @@ Added 3 directories
 
 Next task.
 Setup the macbook to clone the directory
+Was successful in cloning the directory and setting up SSH on the macbook.
+Looking to see if I can upload the changes to this file form the mac.
+Here we go.
